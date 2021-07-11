@@ -1,0 +1,22 @@
+{
+  "name": "week-6-task",
+  "version": "1.0.0",
+  "description": "this is ecommerce app package.json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myambition01/WEEK-6-TASK.git"
+  },
+  "author": "ibonye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myambition01/WEEK-6-TASK/issues"
+  },
+  "homepage": "https://github.com/myambition01/WEEK-6-TASK#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
